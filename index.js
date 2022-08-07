@@ -22,7 +22,7 @@ function countDown() {
     totalSeconds = totalSeconds - 1;
     countdownDisplay.innerHTML = `${minutes}.${seconds}`;
   }
-  if (totalSeconds == 0) countdownDisplay.innerHTML = `finish`;
+  if (totalSeconds == 0) countdownDisplay.innerHTML = `write a number`;
   console.log(choice.value);
   console.log(minutes, seconds);
   console.log(totalSeconds);

@@ -14,8 +14,8 @@ This is a solution for a simple countdown app
 
 ### Links
 
-- Solution URL: [Github code](https://github.com/Stv-devl/Todo-list-)
-- Live Site URL: [You can see here](https://stv-devl.github.io/Todo-list-/)
+- Solution URL: [Github code](https://github.com/Stv-devl/Countdown)
+- Live Site URL: [You can see here](https://stv-devl.github.io/Countdown/)
 
 ## My process
 
